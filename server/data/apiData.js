@@ -19,7 +19,7 @@ const notes =[
         id: "3",
         name: "dawood",
         age: "23",
-        married: "None",
+        married: "Yes",
         email: "dawood@gmail.com",
         designation: "Software Enginear",
     },
@@ -35,7 +35,7 @@ const notes =[
         id: "5",
         name: "Ali",
         age: "23",
-        married: "None",
+        married: "Yes",
         email: "Ali@gmail.com",
         designation: "Software Enginear",
     }
