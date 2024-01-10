@@ -2,7 +2,6 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import { navItems } from '../Navigation/NavigationData'
 
-
 const Header = () => {
   return (
     <>

@@ -1,4 +1,10 @@
 export const navItems = [
-     {name:"Home",path:'/'},
-    {name:"Contact Us",path:'/contact'},
+     {
+        name:"Home",
+        path:'/'
+    },
+    {
+        name:"Contact Us",
+        path:'/contact'
+    }
 ]
