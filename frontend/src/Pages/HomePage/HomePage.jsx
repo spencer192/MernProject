@@ -3,8 +3,18 @@ import LayoutComp from '../../component/LayoutComp';
 import HomeBanner from '../../component/HomeBanner/HomeBanner';
 import axios from 'axios';
 
+
 const HomePage = () => {
   const [data, setData] = useState([]);
+
+  //  useEffect ((history) => {
+  //       const userInfo = localStorage.getItem("userInfo");
+
+  //       if (userInfo) {
+  //           history.push("/");
+  //       }
+  //   });
+
 
   useEffect(() => {
     fetchBackendApiData();

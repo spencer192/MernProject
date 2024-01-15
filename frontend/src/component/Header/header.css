@@ -1,0 +1,23 @@
+
+.main-login{
+        background-color: rgb(0, 0, 255);
+    
+        .header-navigation {
+        display: flex;  
+        justify-content: space-between;
+        align-items: baseline;
+        ul{
+            display: flex;
+            gap: 20px;
+            justify-content: space-between;
+            
+            li{
+                list-style: none;
+                a{
+                    color: #fff;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
