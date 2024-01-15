@@ -1,5 +1,8 @@
 export const RouterCom = {
   homePage: '/',
-  contactUs: '/contact'
+  contactUs: '/contact',
+  login: '/login',
+  signUp: '/register'
+  
 }
     
